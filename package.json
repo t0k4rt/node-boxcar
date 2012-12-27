@@ -1,0 +1,34 @@
+{
+  "name": "node-boxcar",
+  "description": "A node wrapper for Boxcar API",
+  "keywords": [
+    "boxcar",
+    "push",
+    "notifications",
+    "push notifications",
+    "iphone"
+  ],
+  "version": "0.1.0",
+  "main": "./lib/provider",
+  "homepage": "http://boxcar.io/",
+  "author": {
+    "name": "Alexandre Assouad",
+    "email": "alexandre.assouad@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/t0k4rt/node-boxcar.git"
+  },
+  "bugs": {
+    "url": "http://github.com/t0k4rt/node-boxcar/issues"
+  },
+  "engines": {
+    "node": ">0.8"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/t0k4rt/node-boxcar/raw/master/LICENSE"
+    }
+  ]
+}
