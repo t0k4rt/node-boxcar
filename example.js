@@ -4,7 +4,7 @@ var secret = 'your secret';
 var email = 'your_email@email.com';
 
 
-var provider = new Boxcar.provider(key, secret)
+var provider = new Boxcar.provider(key, secret);
 
 
 //subscribe to provider
