@@ -12,7 +12,7 @@ provider.subscribe({
     'email': email
 }, function(err, info) {
     if (err) {
-        //throw err;
+        throw err;
     }
     console.log(info);
 });
